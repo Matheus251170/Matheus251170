@@ -4,7 +4,9 @@
 
 <br>
 
-+ I'm currently studying to be a java fullstack developer. 😎
++ I'm a java fullstack developer. 😎
+
++ Chess Player. ♟
 
 + Love for IA. 🧠
 
