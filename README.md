@@ -8,7 +8,7 @@
 
 + Chess Player. ♟
 
-+ Love for IA. 🧠
++ Love for AI. 🧠
 
 
 <br>
