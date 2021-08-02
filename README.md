@@ -15,14 +15,31 @@
 
 <div>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus251170&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus251170&show_icons=true&theme=radical) <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=radical"/>
+
 
 </div>
 
 <br>
 
 <div align=center>
-   <a href="https://www.linkedin.com/in/marcos-matheus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=matheus251170@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
+   <a href="https://www.linkedin.com/in/marcos-matheus/" target="_blank">
+     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=matheus251170@gmail.com" target="_blank">
+     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  
+   <a href="https://instagram.com/matheus251170" target="_blank">
+     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  
+   <a href="https://twitter.com/alighieri251" target="_blank">
+     <img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank">
+  </a>
+  
 </div>
 
 <hr>
