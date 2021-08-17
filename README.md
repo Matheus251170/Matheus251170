@@ -6,6 +6,8 @@
 
 + I'm a java fullstack developer. 😎
 
++ Systems development technician. 💻
+
 + Chess Player. ♟
 
 + Love for AI. 🧠
