@@ -4,11 +4,13 @@
 
 <br>
 
-+ I'm a java fullstack developer. 😎
++ I'm a Java and Angular fullstack developer. 😎
 
 + Systems development technician. 💻
 
 + Chess Player. ♟
+
++ Speedcuber. (there is no emoticon >:c)
 
 + Love for AI. 🧠
 
