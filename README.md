@@ -93,10 +93,18 @@
 
 <a>
   <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/>
-</a>•
+</a> •
     
 <a>
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="php" width="40" height="40"/>
+</a> •
+    
+<a>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+</a> •
+    
+<a>
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="Typescript" width="40" height="40"/>
 </a>
     
 </p>
