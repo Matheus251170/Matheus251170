@@ -108,5 +108,5 @@
 
 #
 
-  ![Snake animation](https://github.com/Matheus251170/Matheus251170/blob/output/github-contribution-grid-snake.svg)
+  <!--![Snake animation](https://github.com/Matheus251170/Matheus251170/blob/output/github-contribution-grid-snake.svg)
 
